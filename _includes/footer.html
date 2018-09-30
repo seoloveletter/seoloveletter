@@ -1,19 +1,16 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
+<!-- Footer -->
+<footer id="footer">
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+<!--     <ul class="icons">
+        <li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+        <li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+        <li><a href="#" class="icon circle fa-github"><span class="label">Github</span></a></li>
+        <li><a href="#" class="icon circle fa-dribbble"><span class="label">Dribbble</span></a></li>
+    </ul>
+ -->
+    <ul class="copyright">
+        <li>&copy; IndieSense</li></li>
+    </ul>
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+</footer>

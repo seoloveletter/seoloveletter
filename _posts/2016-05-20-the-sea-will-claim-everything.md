@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "The Sea Will Claim Everything Review"
+date:   2016-05-20
+categories: reviews
+image:  /images/thesea.jpg
+excerpt: The Sea Will Claim Everything  is a point and click adventure game that sports a charming art style, essays worth of flavor text, and crafts an intelligent and philosophical story that embroils community, politics and whimsy.
+---
+## The Sea Will Claim Everything Review
+
+When I first played The Sea Will Claim Everything, I didn’t really know what to expect.  I had heard of the developer, and known that he worked on The Talos Project, but the format for The Sea Will Claim Everything was vastly different from The Talos Project.  I had previously seen The Sea Will Claim Everything on various “best of” lists 4 or 5 years ago, but had never really looked too deeply into it, whether it was the fact that I wasn’t too interested in point and click games at the time, or because I just decided to gloss over it, I couldn’t say.  When I had the opportunity to review this game and play it for the first time, I didn’t have much to base my expectations on.  Fast forward four hours, and I had tears in my eyes as I slowly said goodbye to the Land of Dreams.
+
+![The Sea Will Claim Everything first picture](http://indiesense.github.io/images/sea1.jpg)
+
+Simply put, The Sea Will Claim Everything is one of the most intelligent, philosophical and mind-opening games that I’ve ever experienced.  What started off as slightly whimsical, goofy and ultimately slow start, eventually turned into an adventure into the Land of Dreams that featured political undertones that exposed the dark side of governments and the dangers of complacency and inactivity. 
+
+What ties the game together, isn’t just the charming art style or the amazing soundtrack.  Rather, It’s the injustices that you uncover, the characters that you meet, the beliefs that people hold and the complacency of citizens that make the game much more than the sum of its parts.  The settings and conversations you have create a visceral experience that will instill a feeling of anger and rebellion, as well as happiness and hope.  You’ll deal with corruption and murder, as well as embrace a sense of community and camaraderie with the townspeople.  The Sea Will Claim Everything explores the nuances of government, politics and how citizens fit into the big picture.  It exposes the complacency that people have and how the bystander effect ultimately affects our actions.  This narrative isn’t communicated to you directly, rather the narrative is communicated by making you directly experience the injustices that are placed upon the townspeople.  Whether it’s having their treasure stolen from them, or having a citizen that dare question the status quo killed, you’ll be dropped in the middle of a potential political revolution.
+
+![The Sea Will Claim Everything second picture](http://indiesense.github.io/images/sea2.jpg)
+
+
+The gameplay in The Sea Will Claim Everything is quite simple, just as almost every other point and click game in existence, your actions will fall into one of two categories, you’ll either be using items to solve a puzzle directly in front of you, or you’ll play mailman and courier different items between a host of characters.  While there were a couple of puzzles that had me stumped for a little while, the gameplay complements the story, and you’re never stuck in one place for so long that it starts your hinder your enjoyment of the game and the story.  Since story is such an important aspect of point and click games, the way that conversations are held, as well as how the story is written needs to flow naturally and feel like a natural extension of your character and the game.  This is much more important than in other games, where the story may be a driving factor of the game, but there’s an equal emphasis on gameplay.  In point and click games, the way that the story is presented really dictate the tone and believability for the world that’s being created.  In this realm, The Sea Will Claim Everything passes with flying colors, every conversation that’s held and all your actions are wonderfully told.  This is combined with flavor texts for nearly every item in the game, including countless mushrooms that litter the world.
+
+![The Sea Will Claim Everything third picture](http://indiesense.github.io/images/sea3.jpg)
+
+This review for The Sea Will Claim Everything is short, and this was intentional.  The messages and lessons I’ve learned in this game have changed the way I perceive my abilities in my government.  The story and morals are communicated effortlessly, and the lessons that I learned from playing the game were learned organically.  At no point did the game feel overbearing in its messages, which is rare for games that try to be philosophical.  There’s a beautiful soundtrack that backs the game, and adds to the environment that the game flawlessly creates.  I can’t recommend The Sea Will Claim Everything enough.  You can find it on the Steam store [here](http://store.steampowered.com/app/337720/) for $9.99.

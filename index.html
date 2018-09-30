@@ -1,4 +1,68 @@
 ---
-layout: home
-author_profile: true
----
+layout: landing-page
+---		
+		<!-- Main -->
+			<article id="main">
+
+				<header class="special container">
+					<span class="icon fa fa-gamepad"></span>
+					<h2>Honest game reviews are hard to come by
+					<br />
+					We provide reviews without the sugarcoating</h2>
+					<p>There are tons of games that don't get the love and attention they deserve.
+					<br />
+					Our goal is to bring awareness to games, that otherwise wouldn't get that much attention.
+					<br />
+					With animated gifs in every review, you can see how a game looks like in action.</p>
+				</header>
+					<section class="wrapper style3 container special">
+					
+						<header class="major">
+						<h2>Recent Reviews</strong></h2>
+						</header>
+						{% for post in site.posts limit:12 %}					
+						  {% assign loopindex = forloop.index | modulo: 2 %}
+						  {% if loopindex == 1 %}
+							<div class="row">
+							<div class="6u">
+							
+								<section>
+									<a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="{{ post.title}}" /></a>
+									<header>
+										<h3>{{ post.title }}</h3>
+									</header>
+									<p>{{ post.excerpt }}</p>
+									    <ul class="buttons">
+                        				<li><a href="{{ post.url }}" class="button">Read more</a></li>
+                    					</ul>
+								</section>
+
+							</div>
+						  {% else %}
+						      <div class="6u">
+							
+								<section>
+									<a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="{{ post.title}} gameplay screenshot" /></a>
+									<header>
+										<h3>{{ post.title }}</h3>
+									</header>
+									<p>{{ post.excerpt }}</p>
+									    <ul class="buttons">
+                        				<li><a href="{{ post.url }}" class="button">Read more</a></li>
+                    					</ul>
+								</section>
+
+							</div>
+						    </div>
+						  {% endif %}
+						{% endfor %}
+
+						<footer class="major">
+							<ul class="buttons">
+								<li><a href="/review" class="button">See More Reviews</a></li>
+							</ul>
+						</footer>
+					
+					</section>
+					
+			</article>

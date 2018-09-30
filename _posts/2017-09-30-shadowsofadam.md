@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Shadows of Adam Review"
+date:   2017-09-04
+categories: reviews
+image:  /images/adam.jpg
+excerpt: Shadows of Adam is a classically styled JRPG that comes with all the traippings of the JRPGs from yesteryear.  The art style and music harken back to the SNES days, with superb pixel art and catchy music, Something Classic has developed their take on the classic RPG.
+
+---
+## Shadows of Adam Review
+
+by Brian Ta
+
+
+Shadows of Adam is a classically styled JRPG that comes with all the traippings of the JRPGs from yesteryear.  The art style and music harken back to the SNES days, with superb pixel art and catchy music, Something Classic has developed their take on the classic RPG.
+
+Between Steam, Itch and Gamejolt, there is an influx of RPGs on the market.  Some are professionally created from AAA studios, like I Am Setsuna, while others are hobbyists still releasing their first RPG Maker game.  In such a saturated market, every newly released RPG is clamoring for attention, and in order to do so they strive to innovate a genre that has been around for over a decade.  New studios and developers may try to set themselves apart by introducing a new artstyle, a story set in a never beforeseen world or new gameplay mechanics.  Knowing this, I was quite interested to see what Something Classic has tried to do in order to set themselves apart from the rest of the riff raff that jostle for your attention.
+
+<img class="gfyitem" data-id="HarmfulFreeHairstreak" />
+
+With these expectations in store, I was surprised to find out that the combat and gameplay in Shadows of Adam didn't stray too far away from a standard JRPG experience.  The combat in Shadows of Adam goes turn by turn, you can choose to either do a normal attack or a special attack that uses up your action points.  Where Shadows of Adam differs from typical experiences is centered around your usage of AP.  Every character starts off with 100% AP, every special action you take will decrease your AP by a certain amount, and at the end of every turn your AP will recharge 15%.  The exception to this rule is if you have your character choose to do nothing for the turn, in which case you'll recharge 30% and gain a slight boost to a stat for the next turn.  At first, this seems like a pretty minor change, but as the game progresses, you're quickly able to see how battles in JRPG resemble less of a battle in Final Fantasy, and start resembling more like chess or go.  The fact that you're able to recharge your AP during your fight adds in another layer of complexity. Whereas AP/MP are a precious commodity in other games that you need to to save for harder fights, in Shadows of Adam you'll start having to balance when you should recharge and wait, or when you need to start being aggressive.  There's nothing more satisfying than planning out a fight three moves in advance and landing a chain of combos that knocks out a quarter of a boss' health.  Being able to plan out your fights, and knowing that AP is an infinite resource that can be recharged, leads to more dynamic and nuanced combat.
+
+<img class="gfyitem" data-id="UnacceptableGrimyAzurewingedmagpie" />
+
+Beyond just the combat, the enemy design, and particularly the bosses that you fight, are designed so well.  When facing against regular enemies, you'll have to constantly shift tactics to deal with the sheer variety of enemy behaviors, attacks and immunities.  Being able to adapt to constantly shifting battle situations makes up the core of gameplay in Shadows of Adam.  You'll need to think fast and know how to play to your opponents immunities and weaknesses.  Boss fights in Shadows of Adam are particularly enjoyable, even though they lack the dynamic nature of a constantly shifting horde of enemies, you'll need to dig deep in order to find a strategy that will allow you to stay alive and take down the boss.
+
+All of the enemies are able to be seen from the Overworld, there aren't any random battles in Shadows of Adam, and if you want to grind to a higher level or get more gold, it's a simple matter of leaving the map and coming back in.  With that being said, I never felt a particular need to grind for levels or gold.  Something Classic has created a game that's paced almost perfectly, where every battle is challenging, but never impossible to win.  On top of enemies being dropped onto specific parts of the map for you to battle, Shadows of Adam sprinkles a generous helping of puzzles onto the overworld map.  The puzzle design reminded me quite a bit of the puzzle solving in Golden Sun.  These puzzles also managed to straddle the fine line between frustrating and challenging.
+
+<img class="gfyitem" data-id="DirectIdealGarpike" />
+
+The combat and gameplay in Shadows of Adam prove that you don't need to go crazy with innovation or design in order to stand out from the crowd.  The core experience is fun and the pace of combat and puzzles provides a solid experience that won't have you exasperated or grinding for hours.
+
+When it comes to the story, Shadows of Adam doesn't bring anything new to the table.  In fact, I'd argue that the story and story telling in the game is one of the games weakest features.  The story starts out promising, as it weaves a tale of a world wreaked by magic, and the ensuing community that was created in an attempt to isolate them from the horrors of the rest of the world.  The story provides you with the motivation to leave your small community and look for your father, but quickly after leaving the town of Adam, the story fades into obscurity.  The general plot of the story didn't capture my attention, and the presentation of various plot elements that drive the story forward weren't engaging enough for me to truly care about the world and the characters.  This is punctuated by the robotic dialogue that springs forth in almost every interaction.  The characters you interact with and those that are in your party have as much depth as a cardboard cutout, with stiff dialogue that feels like it tries too hard at times. The root cause of my dislike for the story, may stem from the fact that there was never a sense of urgency from the characters or from the setting.  I never felt pressured or a need to go from town to town or city to city.  While I had issues with the overall story, there were times when the story shone, in particular, Curtis' backstory was a shining example that Something Classic has the ability to craft a captivating story.
+
+I'd be hard pressed to say that Shadows of Adam was an innovative experience, or even one that pushed the envelope of RPG design.  What Shadows of Adam has going for it, is that it's one of the well paced and solidly designed indie RPGs that I've played in recent memory.  The art style and animation are beautiful, the music is catchy and the combat is provides a fresh twist on a proven system.  Shadows of Adam is an excellent example to prove that games shouldn't feel the need to break the mold in order to stand out, rather being able to execute an idea well is what makes a great game.
