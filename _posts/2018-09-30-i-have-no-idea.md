@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thank you to the SEO team - SEOLoveLetter"
+title:  "Thank you to the SEO team - MySEOLoveLetter"
 date:   2018-02-17
 categories: letter
 image:  /images/hn.png
