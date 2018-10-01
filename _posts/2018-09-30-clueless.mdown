@@ -3,8 +3,8 @@ layout: post
 title:  "I had no idea what I was doing - MySEOLoveLetter"
 date:   2018-09-30
 categories: letter
+image:  /images/hn.png
 excerpt: I've come to realize that while I still have no idea how to do my job well, I'd be in an even worse spot without the help of the amazing friends and coworkers that I've met here.
-
 ---
 ## 
 
