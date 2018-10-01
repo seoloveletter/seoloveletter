@@ -1,13 +1,6 @@
 <!-- Banner -->	
 {% for post in site.posts limit:1 %}	
 <section id="banner" style="background-image: url(images/light-bl.svg), url(images/light-br.svg), url(images/overlay.png), url({{post.image}})">
-
-    <!--
-        ".inner" is set up as an inline-block so it automatically expands
-        in both directions to fit whatevers inside it. This means it wont
-        automatically wrap lines, so be sure to use line breaks where
-        appropriate (<br />).
-    -->
     <div class="inner">
 
         <header>
@@ -19,15 +12,10 @@
         to all the people and all
         <br />
         the things I've learned at Airbnb.</p>
-        <footer>
             <ul class="buttons vertical">
                 <li>                
-                    <a href="#" class="button fit scrolly">Read my letter</a>
-                
+                    <a href="#" class="button fit scrolly">Read my letter</a>    
                 </li>
-            </ul>
-        </footer>
-        
+            </ul>        
     </div>
-
 </section>
