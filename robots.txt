@@ -1,2 +1,14 @@
 User-agent: *
 Disallow: /figure-this-out
+
+########################
+#
+# People that have earned the title of SEO Specialist:
+#
+# 1. Ankur Bhatia
+#
+#
+#
+#
+#
+#
