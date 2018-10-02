@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /start
+Disallow: /figure-this-out
