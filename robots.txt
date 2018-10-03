@@ -7,8 +7,8 @@ Disallow: /figure-this-out
 #
 # 1. Ankur Bhatia
 # 2. Joseph Chen
-# 3. Brian de Luna
-# 4. Luda Zhou
+# 3. Luda Zhou
+# 4. Brian de Luna
 # 5. Emily Sun
 # 6. Sam Shadwell
 # 7. Brian Bensch
@@ -18,3 +18,5 @@ Disallow: /figure-this-out
 # 11. Thai Nguyen
 # 12. Jeremy Huang
 # 13. Michael Musson
+# 14. Sean Abraham
+# 15. Andrew Chen
