@@ -16,3 +16,5 @@ Disallow: /figure-this-out
 # 9. Paul Song
 # 10. Brian Wolfe
 # 11. Thai Nguyen
+# 12. Jeremy Huang
+# 13. Michael Musson
