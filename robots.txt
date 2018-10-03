@@ -21,3 +21,5 @@ Disallow: /figure-this-out
 # 14. Sean Abraham
 # 15. Andrew Chen
 # 16. Esther Wang
+# 17. Chirag Patel
+# 18. Vincent Chen
