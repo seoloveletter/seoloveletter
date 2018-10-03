@@ -3,7 +3,6 @@ layout: post
 title:  "Thank you to the SEO team - MySEOLoveLetter"
 date:   2018-09-29
 categories: letter
-image:  /images/hn.png
 excerpt: To the current and past members of the SEO team, you're all god damn rockstars. You're also the reason why I love coming into work everyday.
 ---
 It's hard to encapsulate the last two and a half years that I've spent here. Working here has been one of the most terrifying, eye-opening, illuminating and downright rewarding things that I've ever done. There are too many people to thank among the multitudes of products and projects that I've worked on, so I'll try and keep the shoutouts to a minimum.
