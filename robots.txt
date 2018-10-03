@@ -7,7 +7,7 @@ Disallow: /figure-this-out
 #
 # 1. Ankur Bhatia
 # 2. Joseph Chen
-#
+# 3. Michael Musson
 #
 #
 #
