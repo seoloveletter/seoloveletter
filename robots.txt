@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /figure-this-out
+Disallow: /THIS-IS-THE-LINK-TO-THE-SECOND-STEP
 
 ########################
 #
