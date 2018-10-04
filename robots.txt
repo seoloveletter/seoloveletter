@@ -23,3 +23,4 @@ Disallow: /figure-this-out
 # 16. Esther Wang
 # 17. Chirag Patel
 # 18. Vincent Chen
+# 19. Michelle Tian
