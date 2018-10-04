@@ -26,3 +26,4 @@ Disallow: /figure-this-out
 # 19. Michelle Tian
 # 20. Nikolai Semenenko
 # 21. Emily Cheng
+# 22. Nick Reynolds
