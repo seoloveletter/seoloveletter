@@ -38,3 +38,4 @@ Disallow: /figure-this-out
 # 31. Lucas Chevillard
 # 32. Sean O'Donnell
 # 33. Benno Heidger
+# 34. Reed Daw
