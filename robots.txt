@@ -36,3 +36,5 @@ Disallow: /figure-this-out
 # 29. Ortal Y
 # 30. Fred Wenzel
 # 31. Lucas Chevillard
+# 32. Sean O'Donnell
+# 33. Benno Heidger
