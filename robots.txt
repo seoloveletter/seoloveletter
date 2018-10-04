@@ -33,3 +33,6 @@ Disallow: /figure-this-out
 # 26. Philbert Lin
 # 27. Lisa Yang
 # 28. Machiel Schepers
+# 29. Ortal Y
+# 30. Fred Wenzel
+# 31. Lucas Chevillard
