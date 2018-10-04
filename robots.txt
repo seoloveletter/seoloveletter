@@ -27,3 +27,5 @@ Disallow: /figure-this-out
 # 20. Nikolai Semenenko
 # 21. Emily Cheng
 # 22. Nick Reynolds
+# 23. Mack Yi
+# 24. Dzmitry Kishylau
