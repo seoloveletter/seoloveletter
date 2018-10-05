@@ -33,7 +33,7 @@ Disallow: /THIS-IS-THE-LINK-TO-THE-SECOND-STEP
 # 26. Philbert Lin
 # 27. Lisa Yang
 # 28. Machiel Schepers
-# 29. Ortal Y
+# 29. Ortal Ya
 # 30. Fred Wenzel
 # 31. Lucas Chevillard
 # 32. Sean O'Donnell
