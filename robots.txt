@@ -41,3 +41,5 @@ Disallow: /THIS-IS-THE-LINK-TO-THE-SECOND-STEP
 # 34. Reed Daw
 # 35. Auster Chen
 # 36. Patrick Yoon
+# 37. Fabien David
+# 38. Peter Luu
